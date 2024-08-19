@@ -1,5 +1,4 @@
 ## Hi there 👋
-<div>
-
-<iframe src="https://giphy.com/embed/YYW0hHizzIOrlhimPG" width="473" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tech-system-alliance-YYW0hHizzIOrlhimPG">via GIPHY</a></p>
+<div align=center>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWZrYzl2OHcycmRrY2p2aXY5ZnZvdWppcXpuZHBqeTlyZW9pbG0wbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif" width=100/ >
 </div>
