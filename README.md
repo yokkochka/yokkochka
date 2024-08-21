@@ -1,13 +1,13 @@
 <div align=center>
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWk3NW03ZzhmbmpjdzFtcjNzcmJiZWU1YW55aHk4OHZyemRvOHVpbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/b88QlTSTsj3bEHQyZf/giphy.gif" width=120/ >
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWk3NW03ZzhmbmpjdzFtcjNzcmJiZWU1YW55aHk4OHZyemRvOHVpbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/b88QlTSTsj3bEHQyZf/giphy.gif" width=80/ >
 </div>
 
 <div align = center>
-<a href = "https://t.me/yokkochka"> <img src = "https://img.shields.io/badge/Telegram-0088cc?logo=telegram&logoColor=white&style=for-the-badge" width = 90> 
+<a href = "https://t.me/yokkochka"> <img src = "https://img.shields.io/badge/Telegram-0088cc?logo=telegram&logoColor=white&style=for-the-badge"> 
 </a>
-<a href = "https://leetcode.com/u/Yokkochka/"> <img src = "https://img.shields.io/badge/Leetcode-1b2024?logo=leetcode&logoColor=d8963d&style=for-the-badge" width = 90> 
+<a href = "https://leetcode.com/u/Yokkochka/"> <img src = "https://img.shields.io/badge/Leetcode-1b2024?logo=leetcode&logoColor=d8963d&style=for-the-badge"> 
 </a>
-<a href = "https://www.codewars.com/users/Yokkochka"> <img src = "https://img.shields.io/badge/Codewars-b84b37?logo=codewars&logoColor=14191d&style=for-the-badge" width = 90> 
+<a href = "https://www.codewars.com/users/Yokkochka"> <img src = "https://img.shields.io/badge/Codewars-b84b37?logo=codewars&logoColor=14191d&style=for-the-badge"> 
 </a>
 </div>
 
