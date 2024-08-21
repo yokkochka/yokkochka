@@ -3,9 +3,9 @@
 </div>
 
 <div align = center>
-<a href = "https://t.me/yokkochka"> <img src = "https://img.shields.io/badge/Telegram-0088cc?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"> 
+<a style="padding-right: 15px;" href = "https://t.me/yokkochka"> <img src = "https://img.shields.io/badge/Telegram-0088cc?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"> 
 </a>
-<a href = "https://leetcode.com/u/Yokkochka/"> <img src = "https://img.shields.io/badge/Leetcode-1b2024?logo=leetcode&logoColor=d8963d&style=for-the-badge" alt="Leetcode Badge"> 
+<a style="padding-right: 15px;" href = "https://leetcode.com/u/Yokkochka/"> <img src = "https://img.shields.io/badge/Leetcode-1b2024?logo=leetcode&logoColor=d8963d&style=for-the-badge" alt="Leetcode Badge"> 
 </a>
 <a href = "https://www.codewars.com/users/Yokkochka"> <img src = "https://img.shields.io/badge/Codewars-b84b37?logo=codewars&logoColor=14191d&style=for-the-badge" alt="Codewars Badge"> 
 </a>
