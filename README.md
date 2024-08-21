@@ -2,18 +2,17 @@
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWk3NW03ZzhmbmpjdzFtcjNzcmJiZWU1YW55aHk4OHZyemRvOHVpbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/b88QlTSTsj3bEHQyZf/giphy.gif" width=100>
 </div>
 
-<p align="center">
-  <a href="https://t.me/yokkochka">
-    <img src="https://img.shields.io/badge/Telegram-0088cc?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://leetcode.com/u/Yokkochka/">
-    <img src="https://img.shields.io/badge/Leetcode-1b2024?logo=leetcode&logoColor=d8963d&style=for-the-badge" alt="Leetcode Badge"/>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://www.codewars.com/users/Yokkochka">
-    <img src="https://img.shields.io/badge/Codewars-b84b37?logo=codewars&logoColor=14191d&style=for-the-badge" alt="Codewars Badge"/>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</p>
-
+</div>
 
 <h1 align=center>
   Hey there
