@@ -52,22 +52,22 @@
 
 </div>
 
-<div>
+<div align = center>
     <h1></h1>
     <img width=500 align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=yokkochka&layout=compact" alt="Top Languages" />
 </div>
     
-<div>
+<div align = center>
     <img src="https://leetcard.jacoblin.cool/yokkochka" alt="Leetcode" />
 </div>
 
-<div>
+<div align = center>
     <img src="https://www.codewars.com/users/Yokkochka/badges/large" alt="Codewars" />
 </div>
 
 
 ##  Contact me
-<div align="center">
+<div>
   <a href="https://t.me/yokkochka">
     <img src="https://img.shields.io/badge/Telegram-0088cc?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
