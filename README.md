@@ -52,10 +52,11 @@
 
 </div>
 
-<div align="center">
+<div align=center>
     <h1></h1>
-    <img width=500 align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=yokkochka&layout=compact&timestamp=2024-08-23?timestamp=DATE" alt="Top Languages" />
+    <img width=500 align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=yokkochka&layout=compact" alt="Top Languages" />
 </div>
+
 
 <div align = center>
     <img src="https://leetcard.jacoblin.cool/yokkochka" alt="Leetcode" />
