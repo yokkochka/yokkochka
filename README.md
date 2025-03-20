@@ -53,13 +53,6 @@
 </div>
 
 
-<div align = center>
-    <img src="https://leetcard.jacoblin.cool/yokkochka" alt="Leetcode" />
-</div>
-
-<div align = center>
-    <img src="https://www.codewars.com/users/Yokkochka/badges/large" alt="Codewars" />
-</div>
 
 
 ##  Contact me
